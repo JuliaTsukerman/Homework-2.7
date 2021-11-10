@@ -43,7 +43,7 @@
         <!--Info View Controller-->
         <scene sceneID="CjB-j4-6W3">
             <objects>
-                <viewController id="Rp3-Tk-ctj" customClass="InfoViewController" sceneMemberID="viewController">
+                <viewController id="Rp3-Tk-ctj" customClass="InfoViewController" customModule="ContactApp" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="1xc-dP-MCA">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
